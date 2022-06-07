@@ -9,4 +9,4 @@ Now that you are all set up, it's time to learn a little more about the tools of
 5. What is the command you can use to switch between branches? For example you are working on the FIRSTNAME-LASTNAME branch and you want to switch back to main. git switch -c main
 6. Explain the difference between `git fetch`, `git merge` and `git pull`. What does each command do?  git fetch will not update any changes from the branch compared to a git pull which will update any changes made from the branch. A git pull is basically a git fetch and a git merge happening into whichever branch you are applying it to.  A git fetch compares the updated commit to the current branch.  A git pull updates the current branch with the updated commit. A git merge merges the updated commit with the branch.
 7. What is a merge conflict? A merge conflict is when git can't automatically resolve problems between two commits. 
-8. How do you resolve a merge conflict? You can open the file and manually make changes.  
+8. How do you resolve a merge conflict? You can open the file and manually make changes.  :)
